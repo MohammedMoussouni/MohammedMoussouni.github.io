@@ -1,0 +1,6 @@
+SetEnvIfNoCase Request_URI ^ / thumb.php no-gzip -vary
+
+
+# HTID:21230488: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:21230488:
