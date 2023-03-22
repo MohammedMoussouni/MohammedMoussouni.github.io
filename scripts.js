@@ -30,18 +30,17 @@ const resume = {
       }, 
     ],
     skills: [
+      'HTML',
+      'CSS',
+      'PHP',
       'C++',
+      'SQL',
       'JavaScript',
       'TypeScript',
-      'NodeJS',
-      'NextJS',
-      'ReactJS',
-      'Python',
-      'Django',
-      'Firebase',
-      'SQL',
-      'PostgreSQL',
-      'MongoDB'
+      'Laravel',
+      'Symfony',
+      'Bootstrap',
+      'SAP'
     ],
     professionalSummary: `Autonome et passionné, mes premières expériences m'ont permis de renforcer mes
     acquis et d'appréhender les différents outils et techniques liés à la gestion de projet
