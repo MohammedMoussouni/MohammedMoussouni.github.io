@@ -2,31 +2,31 @@
  * Resume/CV template created with Bootstrap 5 by @vmoratog and @jdnichollsc
  */
 const resume = {
-    firstName: 'Gideon',
-    lastName: 'Pinto',
-    jobTitle: 'Research Software Developer II - Frontend, Open Source Contributor',
-    city: 'Boston',
-    postalCode: '02446',
-    phone: '617-447-7461',
-    email: 'gideon.pinto@childrens.harvard.edu',
+    firstName: 'Mohammed',
+    lastName: 'MOUSSOUNI',
+    jobTitle: 'Développeur Web Junior Full Stack',
+    city: 'Tours',
+    postalCode: '37100',
+    phone: '06-28-81-37-25',
+    email: 'mohamed.moussouni@gmail.com',
     education: [
       {
-        school: 'Northeastern University',
-        degree: 'Masters',
-        graduationDate: '2019',
-        description: 'Combined Major in Informatics and Digital Media and Design'
+        school: 'UFR Sciences et Techniques de Tours',
+        degree: 'Bac+5 Master 2 CCI',
+        graduationDate: '20015 - 2016',
+        description: "Diplôme d'Ingénieur Informatique"
       },
       {
-        school:"St Francis Institute of Technology",
-        degree:"Bachelors",
-        graduationDate:"2015",
-        description:"Computer Science"
+        school:"Faculté de Droit de Tours",
+        degree:"Bac+4 Master 1 AGE",
+        graduationDate:"20014 - 2015",
+        description:"Administration et Gestion des Entreprises"
       }
     ],
     links: [
       {
         label: 'GitHub',
-        link: 'https://github.com/PintoGideon'
+        link: 'https://github.com/MohammedMoussouni'
       }, 
     ],
     skills: [
@@ -43,45 +43,40 @@ const resume = {
       'PostgreSQL',
       'MongoDB'
     ],
-    professionalSummary: `I’m a software engineer specializing in building (and occasionally designing) digital experiences. Currently, I’m focused on building accessible, human-centered products at Boston Childrens Hospital.`,
+    professionalSummary: `Autonome et passionné, mes premières expériences m'ont permis de renforcer mes
+    acquis et d'appréhender les différents outils et techniques liés à la gestion de projet
+    informatique. En quête de nouveaux challenges, je souhaite rejoindre une organisation à
+    laquelle je pourrais apporter mon dynamisme et mon goût du challenge.`,
     employmentHistory: [
       {
-        jobTitle: 'Research Software Developer II - Frontend',
-        startDate: 'July 2019',
-        endDate: 'Present',
-        employer: "Boston Children's Hospital",
-        city: 'Boston',
+        jobTitle: 'Chef de projet informatique',
+        startDate: 'Janvier 2017',
+        endDate: 'Juin 2022',
+        employer: "Ministère des Armées",
+        city: 'Tours',
         achievements: [
-          'Write modern, performing, and robust code for the ChRIS Research Integration System (https://www.bu.edu/rhcollab/radiology/), a platform that brings research computing solutions to clinical front lines.',
-          'Work with a variety of different languages, frameworks, and tools such as JavaScript, Typescript, React, Node.js, Python, Rust, Django, Express, Docker, Kubernetes and Openshift.',
-          'Built a complete interface for retrieving, browsing and visualizing patient data from hospital servers. Built tools for anonymous data sharing and running complex analyses shipped in docker and podman.',
-          'Architected and implemented web-based medical image viewers which supports high-performance image display, multiple browsers, and different medical image formats.',
-          'Developed full-stack containerized applications for scientific tooling, MRI processing and compute platforms and collaborated with user experience designers and other developers to ensure thoughtful and coherent user experiences across the division of newborn medicine web-based apps.',
+          'Conduire les projets en mode agile ou en mode classique ;',
+          'Assister le responsable fonctionnel dans la formalisation de leurs besoins ;',
+          'Assurer le rôle de garant du MCO/TMA (maintient en condition opérationnel/Tiers maintenance applicative) du SI avec le prestataire extérieur ;',
+          'Création et contribution au développement de solutions et participation à leur mise en oeuvre.',
+          "Réunion avec les clients et analyse de leurs besoins en matière d'automatisation et d'évolution pour mieux proposer des solutions adéquates.",
+          "Tests effectués pour vérifier le bon fonctionnement des outils et rectifications avant la commercialisation de la solution.",
         ]
       },
       {
-        jobTitle: 'Software Engineering Internship',
-        startDate: 'Jan 2017',
-        endDate: 'Aug 2017',
-        employer: 'Seed Infotech',
-        city: 'India',
+        jobTitle: 'Consultant fonctionnel SAP FI/ CO',
+        startDate: 'Mars 2017',
+        endDate: 'Aout 2017',
+        employer: 'Augusta Reeves',
+        city: 'Paris',
         achievements: [
-          'Collaborated with a small team of student developers to create a chatbot using Java AIML esigned to simulate a conversation with children affected by Autism Spectrum Disorder.',
-          "Worked closely with designers and management team to develop, document, and manage Infotech's conference’s marketing website using Jekyll, Sass, and JavaScript.",
+          "Mise en place d'atelier de formation auprès des clients",
+          "Rédaction de spécifications technico-fonctionnelles",
+          "Tests de non-régression sur les différents environnements",
+          "Développement des connaissances liés au paramétrage (via le SPRO)",
         ]
-      },
-      {
-        jobTitle: 'Content Development',
-        startDate: 'July 2015',
-        endDate: 'Sep 2016',
-        employer: 'Packt',
-        city: 'India',
-        achievements: [
-          "Developed and shipped highly interactive web applications for Packt's Publishing Platform using Ember.js",
-          "Architected and implemented a dashboard for authors to upload drafts for their books and echnical reviewers to review these drafts",
-          "Designed the course curriculum for books and online videos on JavaScript and Java",
-        ]
-      },
+      }
+      
       
     ],
     photo: 'https://user-images.githubusercontent.com/15992276/226209051-50dfda50-decc-4d5d-8673-6acd6a04d857.jpeg',
