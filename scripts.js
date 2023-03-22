@@ -79,7 +79,7 @@ const resume = {
       
       
     ],
-    photo: 'https://user-images.githubusercontent.com/15992276/226209051-50dfda50-decc-4d5d-8673-6acd6a04d857.jpeg',
+    photo: 'https://mohammed-moussouni.000webhostapp.com/photo-cv.png',
   }
   
   const formatResume = (r) => ({
